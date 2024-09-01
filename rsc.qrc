@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ImgSrc/add.png</file>
+        <file>ImgSrc/asc.png</file>
+        <file>ImgSrc/background2.jpg</file>
+        <file>ImgSrc/bg.jpg</file>
+        <file>ImgSrc/bg.png</file>
+        <file>ImgSrc/browse.png</file>
+        <file>ImgSrc/del.png</file>
+        <file>ImgSrc/desc.png</file>
+        <file>ImgSrc/down-arrow.png</file>
+        <file>ImgSrc/key.png</file>
+        <file>ImgSrc/mail.png</file>
+        <file>ImgSrc/modifier.png</file>
+        <file>ImgSrc/pdf.png</file>
+        <file>ImgSrc/qr.png</file>
+        <file>ImgSrc/srch.png</file>
+    </qresource>
+</RCC>
